@@ -1,0 +1,142 @@
+[
+  {
+    "topic": "كهرباء",
+    "text": "أقرب قيمة لشدة الإضاءة الدنيا لمسارات الإخلاء الطارئ وفق كود دبي هي:",
+    "choices": [
+      {
+        "id": "أ",
+        "text": "1 لوكس",
+        "isCorrect": false
+      },
+      {
+        "id": "ب",
+        "text": "5 لوكس",
+        "isCorrect": true
+      },
+      {
+        "id": "ج",
+        "text": "10 لوكس",
+        "isCorrect": false
+      },
+      {
+        "id": "د",
+        "text": "20 لوكس",
+        "isCorrect": false
+      }
+    ],
+    "ref": "كود دبي 2021 – السلامة والحريق (إنارة الطوارئ)",
+    "explanation": null
+  },
+  {
+    "topic": "تكييف",
+    "text": "التحكم المفضل لمضخات الماء المبرد في أنظمة التدفق المتغير هو:",
+    "choices": [
+      {
+        "id": "أ",
+        "text": "تجاوز بتدفق ثابت",
+        "isCorrect": false
+      },
+      {
+        "id": "ب",
+        "text": "مغير سرعة مع نقطة ضبط فرق ضغط",
+        "isCorrect": true
+      },
+      {
+        "id": "ج",
+        "text": "محركات بسرعتين",
+        "isCorrect": false
+      },
+      {
+        "id": "د",
+        "text": "صمامات خنق",
+        "isCorrect": false
+      }
+    ],
+    "ref": "كود دبي 2021 – الطاقة (التكييف)",
+    "explanation": null
+  },
+  {
+    "topic": "سباكة",
+    "text": "الحمولة الاسمية للتمديد الرئيسي بقطر 100 مم تعادل تقريباً:",
+    "choices": [
+      {
+        "id": "أ",
+        "text": "10 وحدات صحية",
+        "isCorrect": false
+      },
+      {
+        "id": "ب",
+        "text": "160 وحدة صحية",
+        "isCorrect": true
+      },
+      {
+        "id": "ج",
+        "text": "320 وحدة صحية",
+        "isCorrect": false
+      },
+      {
+        "id": "د",
+        "text": "500 وحدة صحية",
+        "isCorrect": false
+      }
+    ],
+    "ref": "كود دبي 2021 – السباكة",
+    "explanation": null
+  },
+  {
+    "topic": "حريق",
+    "text": "أقصى مسافة للوصول إلى مطفأة حريق في خطر عادي هي:",
+    "choices": [
+      {
+        "id": "أ",
+        "text": "10 م",
+        "isCorrect": false
+      },
+      {
+        "id": "ب",
+        "text": "15 م",
+        "isCorrect": true
+      },
+      {
+        "id": "ج",
+        "text": "25 م",
+        "isCorrect": false
+      },
+      {
+        "id": "د",
+        "text": "40 م",
+        "isCorrect": false
+      }
+    ],
+    "ref": "كود دبي 2021 – مطافئ الحريق",
+    "explanation": null
+  },
+  {
+    "topic": "عام",
+    "text": "في تقديمات ديوا يجب أن تتضمن المخططات الأحادية الخط:",
+    "choices": [
+      {
+        "id": "أ",
+        "text": "أحجام المغذيات فقط",
+        "isCorrect": false
+      },
+      {
+        "id": "ب",
+        "text": "كل قيم الحماية والتأريض",
+        "isCorrect": true
+      },
+      {
+        "id": "ج",
+        "text": "الأحمال فقط",
+        "isCorrect": false
+      },
+      {
+        "id": "د",
+        "text": "العدادات فقط",
+        "isCorrect": false
+      }
+    ],
+    "ref": "لوائح ديوا الكهربائية",
+    "explanation": null
+  }
+]

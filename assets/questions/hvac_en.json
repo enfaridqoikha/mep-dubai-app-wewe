@@ -1,0 +1,142 @@
+[
+  {
+    "topic": "Electrical",
+    "text": "Minimum illumination level for emergency egress routes in occupied buildings per Dubai Code is closest to:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "1 lux",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "5 lux",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "10 lux",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "20 lux",
+        "isCorrect": false
+      }
+    ],
+    "ref": "DBC 2021 – Fire & Life Safety (Emergency Lighting)",
+    "explanation": null
+  },
+  {
+    "topic": "HVAC",
+    "text": "For chilled water pumps, preferred control for variable flow systems is:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Bypass constant flow",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "VFD with differential pressure setpoint",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Two-speed motors",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Throttle valves",
+        "isCorrect": false
+      }
+    ],
+    "ref": "DBC 2021 – Energy Chapter (HVAC)",
+    "explanation": null
+  },
+  {
+    "topic": "Plumbing",
+    "text": "Minimum fixture unit loading for a 100 mm building drain typically corresponds to:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "10 FU",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "160 FU",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "320 FU",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "500 FU",
+        "isCorrect": false
+      }
+    ],
+    "ref": "DBC 2021 – Plumbing",
+    "explanation": null
+  },
+  {
+    "topic": "Fire",
+    "text": "Maximum travel distance to a fire extinguisher for ordinary hazard is:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "10 m",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "15 m",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "25 m",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "40 m",
+        "isCorrect": false
+      }
+    ],
+    "ref": "DBC 2021 – Fire Extinguishers",
+    "explanation": null
+  },
+  {
+    "topic": "General",
+    "text": "In DEWA submissions, single-line diagrams must include:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Only feeder sizes",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "All protection ratings and earthing",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Only loads",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Only meters",
+        "isCorrect": false
+      }
+    ],
+    "ref": "DEWA Electrical Regulations",
+    "explanation": null
+  }
+]
